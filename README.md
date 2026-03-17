@@ -1,3 +1,6 @@
+# 未待完续
+
+
 # 1. 首先进入你的项目目录
 cd /d E:\LightningDiT-main
 
